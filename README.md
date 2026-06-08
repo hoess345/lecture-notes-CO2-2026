@@ -27,7 +27,7 @@ uv sync
 
 | Exercise        | Topic                      | Description                                                                                                                                   |
 | --------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Exercise 1**  | SVM Fundamentals         | Introduction to Keras, activation functions (Sigmoid, ReLU, Leaky ReLU), dropout, batch normalization, skip connections, Keras Functional API |
+| **Exercise 1**  | SVM Fundamentals         | To be added|
 | **Exercise 2**  | Keras Fundamentals         | Introduction to Keras, activation functions (Sigmoid, ReLU, Leaky ReLU), dropout, batch normalization, skip connections, Keras Functional API |
 
 ## Requirements
