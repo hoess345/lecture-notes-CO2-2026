@@ -13,6 +13,7 @@ dependencies = [
     "kagglehub>=0.4.1",
     "keras>=3.12.0",
     "matplotlib>=3.10.7",
+    "nbformat>=5.10.4",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "pillow>=12.0.0",
@@ -23,4 +24,5 @@ dependencies = [
     "tensorboard>=2.20.0",
     "tensorflow>=2.20.0",
     "torchinfo>=1.8.0",
+    "transformers>=5.12.1",
 ]
